@@ -1,7 +1,10 @@
 
 import java.io.File;
 
-
+	/*
+	 * Esta clase es la que usamos para comprobar si un archivo existe o no
+	 * @author isnag
+	 */
 public class FUtil {
     /**
      * Verifica si un archivo con el nombre especificado existe en el sistema de archivos.
